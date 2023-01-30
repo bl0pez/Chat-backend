@@ -6,3 +6,5 @@ Dockerfile
 
 .example.env
 .env
+
+data
