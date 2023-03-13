@@ -14,3 +14,8 @@ Register
 POST /register
 ```
 
+Refresh Token
+```endpoint
+GET /refreshToken
+```
+
